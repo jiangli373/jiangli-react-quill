@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "quill": "^0.20.0",
-    "react-addons-clone-with-props": "^0.14.3",
+    "react-addons-clone-with-props": "^0.14.3"
   },
   "devDependencies": {
     "blanket": "^1.1.6",
