@@ -35,11 +35,13 @@
     "CHANGELOG.md",
     "LICENSE"
   ],
+  "peerDependencies":{
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3"
+  },
   "dependencies": {
     "quill": "^0.20.0",
-    "react": "^0.14.3",
     "react-addons-clone-with-props": "^0.14.3",
-    "react-dom": "^0.14.3"
   },
   "devDependencies": {
     "blanket": "^1.1.6",
